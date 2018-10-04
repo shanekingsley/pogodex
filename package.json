@@ -12,13 +12,15 @@
   },
   "keywords": [
     "discord",
-    "\"pokemon",
-    "go\""
+    "pokemon go"
   ],
   "author": "Shane Kingsley",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shanekingsley/pogodex/issues"
   },
-  "homepage": "https://github.com/shanekingsley/pogodex#readme"
+  "homepage": "https://github.com/shanekingsley/pogodex#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
 }
